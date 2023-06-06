@@ -1,9 +1,10 @@
-[![Codewars](https://github.r2v.ch/codewars?user=FilatovEgor&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)(www.codewars.com/r/iRfNGQ)]
+[![Codewars](https://github.r2v.ch/codewars?user=FilatovEgor&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)(https://www.codewars.com/users/FilatovEgor/badges/large)]
 
 ### Hi there 👋
 
 <!--
 **FilatovEgor/FilatovEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Codewars](https://github.r2v.ch/codewars?user=USERNAME)(LINK)]
 
 Here are some ideas to get you started:
 
